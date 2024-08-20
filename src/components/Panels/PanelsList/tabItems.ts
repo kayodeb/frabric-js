@@ -24,14 +24,6 @@ export const tabItems = [
     label: 'Katmanlar',
     name: 'layers',
   },
-  {
-    icon: 'musics',
-    label: 'Müzik',
-    name: 'musics',
-  },
-  {
-    icon: 'videos',
-    label: 'Videolar',
-    name: 'videos',
-  },
+  
+  
 ]

@@ -6,7 +6,7 @@ import { useEditorContext, useHandlers } from '@/uibox'
 
 function Navbar() {
   const { canvas } = useEditorContext()
-  const [templateName, setTemplateName] = useState('My First Design')
+  const [templateName, setTemplateName] = useState('Blue Print')
   const downloadImage = () => {
     //@ts-ignore
     // const workarea = canvas.getObjects().find(obj => obj.id === 'workarea')

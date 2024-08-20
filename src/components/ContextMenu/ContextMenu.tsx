@@ -17,7 +17,7 @@ function ContextMenu() {
       sx={{
         position: 'absolute',
         width: '220px',
-        zIndex: 9,
+        zIndex: 0,
         backgroundColor: '#fff',
         border: '1px solid rgba(64, 87, 109, 0.07)',
         boxShadow: '0 2px 8px rgba(53, 71, 90, 0.2)',
